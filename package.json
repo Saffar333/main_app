@@ -1,0 +1,16 @@
+{
+  "name": "telegram-characters-app",
+  "version": "1.0.0",
+  "description": "Telegram Mini App with character selection and user profile",
+  "scripts": {
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "telegram",
+    "mini-app",
+    "characters",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
